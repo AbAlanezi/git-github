@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+hi from khaled
+hi from bader
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 $
 =======
@@ -8,3 +12,4 @@ hi from khaled
 hi from khaled
 - Riyan was here 
 >>>>>>> bb0a0bde6d22fcb012ab9347b2472358013cfe0a
+>>>>>>> 187df024b1a560af11f64d1d5885427c986960bd
