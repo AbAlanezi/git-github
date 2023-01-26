@@ -1,2 +1,8 @@
 Hi i am khaled
+<<<<<<< HEAD
 - Riyan was here
+=======
+Hi khaled
+
+
+>>>>>>> ff608ae32516758ac5b688353b02318b1ef6525e
