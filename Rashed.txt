@@ -4,4 +4,8 @@ Rashed
 =======
 
 hi from khaled
+<<<<<<< HEAD
 >>>>>>> 4326a187cf8f40ede4540315b89ae11ee202be69
+=======
+hi from amer
+>>>>>>> 4510d779e99d6377cbb80e1a49321745226c67e3
