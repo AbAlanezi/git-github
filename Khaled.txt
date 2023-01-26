@@ -1,13 +1,5 @@
-<<<<<<< HEAD
+
 Hi i am khaled, Hi from Rayan ;)
-..
-=======
+
 Hi i am khaled
-<<<<<<< HEAD
 - Riyan was here
-=======
-Hi khaled
-
-
->>>>>>> ff608ae32516758ac5b688353b02318b1ef6525e
->>>>>>> fdaf4752e0d4f456f516c4e4e730aeecb4f96e56
