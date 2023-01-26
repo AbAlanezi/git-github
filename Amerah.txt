@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 ss
-=======
-hello 
->>>>>>> 4326a187cf8f40ede4540315b89ae11ee202be69
+Hello Amerah from Rayan.
