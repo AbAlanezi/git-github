@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 $
 =======
 hi from khaled
 >>>>>>> 4326a187cf8f40ede4540315b89ae11ee202be69
+=======
+hi from khaled
+- Riyan was here 
+>>>>>>> bb0a0bde6d22fcb012ab9347b2472358013cfe0a
