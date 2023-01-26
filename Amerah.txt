@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+hello
+
+hello 
 
 hello 
 Amerah

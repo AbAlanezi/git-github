@@ -1,5 +1,15 @@
 Rashed
+<<<<<<< HEAD
+<<<<<<< HEAD
+#
+=======
+=======
 - Riyan was here
+>>>>>>> d5ed4f9b326b2e7691fce2d8a85cb4d3d2e2131b
 
 hi from khaled
+<<<<<<< HEAD
+>>>>>>> 4326a187cf8f40ede4540315b89ae11ee202be69
+=======
 hi from amer
+>>>>>>> 4510d779e99d6377cbb80e1a49321745226c67e3

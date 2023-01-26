@@ -1,2 +1,15 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+>>>>>>> cb3ada5b1152636e9e28d8dc75d349e2c6778843
+samah
+
+=======
+hello I am Ameerah :)
 samah
 My name is Fatemah
+<<<<<<< HEAD
+alaa
+=======
+>>>>>>> cb3ada5b1152636e9e28d8dc75d349e2c6778843
