@@ -1,1 +1,10 @@
 hi
+<<<<<<< HEAD
+
+Alaa
+Hi alaa
+
+=======
+hello I am Ameerah :)
+Hi alaa
+>>>>>>> 129e8aae98166d6f6b96910ad51723a92e7d2697
